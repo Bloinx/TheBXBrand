@@ -1,4 +1,4 @@
 # TheBXBrand
 
-Blue: #55c0f4
+Blue: #55c9f4
 Pink: #f58f98
